@@ -74,6 +74,16 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_Whisper-F55036?logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6E56CF?logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-8A2BE2?logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?logoColor=white)
+![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-FF6F00?logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-4B0082?logoColor=white)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-1E90FF?logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper_ASR-412991?logoColor=white)
 
 **Cloud & DevOps**
 
@@ -113,9 +123,6 @@
 **IAS Sathi** — Full-Stack Developer Intern *(Jun 2024 – Aug 2024)*
 - Built Karai.in with Next.js 15, Framer Motion, Tailwind CSS — 95+ Lighthouse score, dynamic OG tags, ISR pages
 - Engineered AI interview simulation with LLM prompt chaining, JSON scoring pipeline, Redis session state, and streaming response UI
-
-**Chegg India** — Subject Expert *(Feb 2022 – Feb 2024)*
-- Solved and reviewed Computer Science doubts and solutions on Chegg.com as a subject matter expert
 
 ---
 
