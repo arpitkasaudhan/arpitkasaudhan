@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-- 💼 **Software Engineer at CarWizard Pvt Ltd (VahanHelp)** — sole engineer on two live commercial products, owning UI, distributed backend, AI pipelines, and cloud infra end-to-end
+- 💼 **Forward Deployed Engineer at MeetMinutes** — working closely with clients to deploy and customize AI-powered solutions in production environments
 - 🤖 Built production AI systems — RAG document SaaS, real-time meeting transcription bot, AI interview platform, and AWS Rekognition document verification microservice
 - 🌱 Deep in **LangGraph, FastAPI, agentic AI systems, RAG pipelines, and distributed backends**
 - 🏅 **KAVACH'23 Grand Finalist** — National Cybersecurity Hackathon by Ministry of Education & AICTE
@@ -100,15 +100,22 @@
 
 ### 💼 Experience
 
-**Car Wizard Pvt. Ltd. (VahanHelp)** — Software Engineer *(Aug 2024 – Present)*
+**MeetMinutes** — Forward Deployed Engineer *(May 2026 – Present)*
+- Working closely with client organizations to deploy, customize, and integrate AI-powered solutions in live operational environments
+- Based in Bengaluru, Karnataka, India (Remote)
+
+**Car Wizard Pvt. Ltd. (VahanHelp)** — Full Stack AI Engineer *(Aug 2024 – Mar 2026)*
 - Sole engineer on VahanHelp — shipped full React Native + Expo platform with Challan V2 API, Razorpay webhook verification, OTP auth with Redis rate limiting, and RC API integration
 - Built ParivahanMitra CRM: WhatsApp Cloud API, BullMQ background jobs, SLA-based ticket routing, RBAC middleware, real-time React dashboard
 - Built FastAPI microservice for AI document verification — async endpoints orchestrating AWS Rekognition, Pydantic validation, and PostgreSQL audit logging; containerized with Docker
 - Full AWS infra: EC2 + PM2 cluster, S3 pre-signed URLs, CloudFront, RDS, GitHub Actions CI/CD
 
-**IAS Sathi** — Full-Stack Developer *(Jun 2024 – Aug 2024)*
+**IAS Sathi** — Full-Stack Developer Intern *(Jun 2024 – Aug 2024)*
 - Built Karai.in with Next.js 15, Framer Motion, Tailwind CSS — 95+ Lighthouse score, dynamic OG tags, ISR pages
 - Engineered AI interview simulation with LLM prompt chaining, JSON scoring pipeline, Redis session state, and streaming response UI
+
+**Chegg India** — Subject Expert *(Feb 2022 – Feb 2024)*
+- Solved and reviewed Computer Science doubts and solutions on Chegg.com as a subject matter expert
 
 ---
 
