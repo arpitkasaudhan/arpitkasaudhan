@@ -110,7 +110,7 @@
 
 ### 💼 Experience
 
-**MeetMinutes** — Forward Deployed Engineer *(May 2026 – Present)*
+**MeetMinutes** — Forward Deployed Engineer *(March 2026 – Present)*
 - Working closely with client organizations to deploy, customize, and integrate AI-powered solutions in live operational environments
 - Based in Bengaluru, Karnataka, India (Remote)
 
