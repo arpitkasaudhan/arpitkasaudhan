@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-- 💼 **Forward Deployed Engineer at MeetMinutes** — working closely with clients to deploy and customize AI-powered solutions in production environments
+- 💼 **AI Full Stack Engineer at MeetMinutes** — working closely with clients to deploy and customize AI-powered solutions in production environments
 - 🤖 Built production AI systems — RAG document SaaS, real-time meeting transcription bot, AI interview platform, and AWS Rekognition document verification microservice
 - 🌱 Deep in **LangGraph, FastAPI, agentic AI systems, RAG pipelines, and distributed backends**
 - 🏅 **KAVACH'23 Grand Finalist** — National Cybersecurity Hackathon by Ministry of Education & AICTE
